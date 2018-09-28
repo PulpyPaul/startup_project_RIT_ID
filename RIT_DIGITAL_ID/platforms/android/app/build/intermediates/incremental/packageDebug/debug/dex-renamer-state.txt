@@ -1,0 +1,4 @@
+#Thu Sep 27 20:04:45 EDT 2018
+base.0=C\:\\Users\\pjd2\\Desktop\\Startup_Project\\startup_project_RIT_ID\\RIT_DIGITAL_ID\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
